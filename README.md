@@ -16,7 +16,6 @@ Instale a versão específica do ESLint utilizada no projeto:
 
 ```
 npm i eslint@8.43.0 -D 
-
 ```
 
 ### 2️⃣ Inicializar o ESLint
