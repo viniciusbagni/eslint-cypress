@@ -26,7 +26,7 @@ Execute o comando abaixo para iniciar a configuração do ESLint:
 npx eslint --init
 ```
 
-Criar o arquivo **.eslintrc.json** na raiz do projeto.
+Crie o arquivo **.eslintrc.json** na raiz do projeto.
 
 Copie o conteúdo do arquivo abaixo:
 
